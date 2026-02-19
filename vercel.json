@@ -1,4 +1,4 @@
 {
-  "installCommand": "cd web && pnpm install",
-  "buildCommand": "cd web && pnpm build"
+  "installCommand": "pnpm install",
+  "buildCommand": "pnpm build"
 }
