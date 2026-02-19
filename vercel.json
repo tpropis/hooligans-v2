@@ -1,0 +1,4 @@
+{
+  "installCommand": "cd web && pnpm install",
+  "buildCommand": "cd web && pnpm build"
+}
